@@ -7,9 +7,6 @@ Features:
 - Timer and score tracking.
 - (Internal) Ability to specify any number of answers to a question.
 
-
 Live URL: https://stratiz.github.io/challenge-4-coding-quiz/
 
 <img src="./assets/images/preview.gif" alt="drawing" width="700"/>
-
-
